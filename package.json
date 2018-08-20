@@ -1,0 +1,25 @@
+{
+
+  "name": "Dementor",
+
+  "description": "Büntető zenebot",
+
+  "version": "0.0.0",
+
+  "main": "dementor.js",
+
+  "scripts": {
+
+    "start": "node dementor.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
