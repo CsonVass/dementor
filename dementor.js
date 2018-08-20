@@ -94,4 +94,4 @@ if (cmd === `${prefix}sthaap`){
 
 
 });
-  bot.login('NDgwNzY3OTIwNTAzMjU5MTU4.Dlsmew.4S1PYipxUktSIh4mlCmUyUBlbg');
+  bot.login(process.env.BOT_TOKEN);
